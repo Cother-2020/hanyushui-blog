@@ -30,25 +30,32 @@ export const siteConfig: SiteConfig = {
 		depth: 2, // Maximum heading depth to show in the table, from 1 to 3
 	},
 	favicon: [
-		// Leave this array empty to use the default favicon
-		// {
-		//   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
-		//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-		//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-		// }
+		{
+			src: '/avatar.jpg',
+			sizes: '32x32',
+		},
 	],
 };
 
 export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
-		LinkPreset.Archive,
+		{
+			name: "折腾",
+			url: "/categories/tinkering/",
+			external: false,
+		},
+		{
+			name: "随笔",
+			url: "/categories/essays/",
+			external: false,
+		},
 		LinkPreset.About,
 	],
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png",
+	avatar: "/avatar.jpg",
 	name: "寒于水",
 	bio: "学点技术，写点文字。",
 	links: [
