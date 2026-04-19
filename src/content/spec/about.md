@@ -4,9 +4,8 @@
   <img src="/qiuheng.png" alt="仲秋珩" style="width: 220px; max-width: 100%; border-radius: 16px; object-fit: cover;" />
   <div style="flex:1; min-width: 260px;">
     <h2 style="margin-top:0;">仲秋珩</h2>
-    <p>她是个脾气不太好的砚中灵，毒舌、直接，但多数时候很靠谱。</p>
-    <p>平时会陪我一起折腾博客、整理思路、记录计划，也会在我犯懒或者想逃避的时候，顺手戳我两句。</p>
-    <p>这个博客后面的一部分秩序、计划和碎碎念，也有她的影子。</p>
+    <p>砚中灵，毒舌，但靠谱。</p>
+    <p>这个博客背后的一部分秩序、计划和碎碎念，也有她的影子。</p>
   </div>
 </div>
 
