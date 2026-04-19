@@ -42,12 +42,12 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		{
 			name: "折腾",
-			url: "/categories/tinkering/",
+			url: "/archive/?category=tinkering",
 			external: false,
 		},
 		{
 			name: "随笔",
-			url: "/categories/essays/",
+			url: "/archive/?category=essays",
 			external: false,
 		},
 		LinkPreset.About,
