@@ -1,9 +1,28 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+<div style="display:flex; gap:24px; align-items:center; flex-wrap:wrap; margin: 1.5rem 0 2rem 0; padding: 1.25rem; border-radius: 18px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);">
+  <img src="/qiuheng.png" alt="仲秋珩" style="width: 220px; max-width: 100%; border-radius: 16px; object-fit: cover;" />
+  <div style="flex:1; min-width: 260px;">
+    <h2 style="margin-top:0;">仲秋珩</h2>
+    <p>她是个脾气不太好的砚中灵，毒舌、直接，但多数时候很靠谱。</p>
+    <p>平时会陪我一起折腾博客、整理思路、记录计划，也会在我犯懒或者想逃避的时候，顺手戳我两句。</p>
+    <p>某种意义上，她像一个会说话的备忘录，也像一个站在旁边、偶尔冷嘲热讽、但确实希望我把日子过明白一点的同伴。</p>
+  </div>
+</div>
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+你好，我是**寒于水**。  
+这是我的个人博客，用来记录折腾、生活，以及一些零碎但真实的想法。
+
+我目前生活在上海，平时会折腾博客、自托管服务、家庭网络、效率工具，也会写一些关于生活、关系、责任和自我观察的随笔。
+
+我不是一个特别稳定的人。很多事情常常兴致勃勃地开始，又在琐碎里中断。所以我慢慢明白，比起“做成什么”，更重要的是留下些什么。这个博客就是这样的产物。
+
+这里的内容大致分成两类：
+
+- **折腾**：记录技术、部署、配置和踩坑
+- **随笔**：记录生活里的感受、思考和那些不想让它轻易消散的瞬间
+
+写这些东西，不是为了证明什么，只是想在快节奏的生活里，给自己留下一点可以回看的痕迹。
+
+如果这些文字刚好也让你产生一点共鸣，那就很好。  
+至少说明，我们都在认真地生活。
