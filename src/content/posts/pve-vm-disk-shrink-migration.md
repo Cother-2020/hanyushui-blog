@@ -75,7 +75,7 @@ sudo sed -i '/^ALL: ALL EXCEPT localhost/d' /etc/hosts.deny
 另外每次重启 GParted Live 都会生成新的 host key，之前 known_hosts 里的记录会冲突，记得清掉：
 
 ```bash
-ssh-keygen -f ~/.ssh/known_hosts -R '10.0.0.5'
+ssh-keygen -f ~/.ssh/known_hosts -R '<your-vm-ip>'
 ```
 
 ### 坑二：SeaBIOS 还是 UEFI，要先搞清楚
